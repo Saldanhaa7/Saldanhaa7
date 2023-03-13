@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/bsoliveirasoftware/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-
+<div align="center">
 <div align="center">
   <a href="https://github.com/Saldanhaa7">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Saldanhaa7&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
@@ -49,5 +49,5 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
+</div>
 
