@@ -1,9 +1,25 @@
+<div>
+  
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/edududuribeiro/">Bruno Saldanha 👋</a>
+  </h1>
+  
+  <p align="center">
+    Sou estudante de Engenharia de Software e sou apaixonado por esportes, tecnologia e animais. Estou focado e determinado nos estudos, para adentrar no mercado de trabalho!
+    
+  </p>
+<div align="center">
+  <img href="https://www.linkedin.com/in/bsoliveirasoftware/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+</div>
 
-### Olá! Eu sou o Bruno Saldanha👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsoliveirasoftware/)
-
-![Saldanhaa7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Saldanhaa7&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/Saldanhaa7">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Saldanhaa7&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ## Tecnologias que eu estudo
 
@@ -19,9 +35,12 @@
   <img align="center" alt="SQL_SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
 
-Apaixonado por esportes, tecnologia e animais. Estou focado e determinado nos estudos, para adentrar no mercado de trabalho!
 
 ## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno14042003@gmail.com)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5511981471987)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5511981471987)
+
+  
+  ![Snake animation](https://github.com/Saldanhaa7/Saldanhaa7/blob/output/github-contribution-grid-snake.svg)
+</div>
