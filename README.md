@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Bruno Saldanha 👋</a>
+    <a href="https://www.linkedin.com/in/bsoliveirasoftware/">Bruno Saldanha 👋</a>
   </h1>
   
   <p align="center">
@@ -10,7 +10,7 @@
     
   </p>
 <div align="center">
-  <img href="https://www.linkedin.com/in/bsoliveirasoftware/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  <a href="https://www.linkedin.com/in/bsoliveirasoftware/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
