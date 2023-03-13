@@ -41,6 +41,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno14042003@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+5511981471987)
 
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-  ![Snake animation](https://github.com/Saldanhaa7/Saldanhaa7/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+
