@@ -14,12 +14,9 @@
 </div>
 
 <div align="center">
-<div align="center">
-  <a href="https://github.com/Saldanhaa7">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Saldanhaa7&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&theme=tokyonight&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+
+
+![saldanha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saldanhaa7&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&theme=tokyonight&hide_border=false&&layout=compact)
 
 ## Tecnologias que eu estudo
 
