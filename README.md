@@ -1,38 +1,78 @@
-<div>
+### <div align="center">I'm Bruno Saldanha, a trainee data engineer 👨‍💻 working since 2023 🚀</div>  
   
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/bsoliveirasoftware/">Bruno Saldanha 👋</a>
-  </h1>
+
+- 🔭 I’m currently working on [Veiga Bets](https://www.linkedin.com/company/veiga-bets/)  
   
-  <p align="center">
-    Sou estudante de Engenharia de Software e sou apaixonado por esportes, tecnologia e animais. Estou focado e determinado nos estudos, para adentrar no mercado de trabalho!
-    
-  </p>
+
+- 🌱 I’m currently learning AWS services  
+  
+
+- ⚡ Fun fact: I love talking about any topic  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
 <div align="center">
-  <a href="https://www.linkedin.com/in/bsoliveirasoftware/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+<a href="https://github.com/Saldanhaa7" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/bsoliveirasoftware" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/Saldanhaa7" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saldanhaa7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Saldanhaa7&&style=flat-square" align="center" />
+</div>  
+  
 
+<br/>  
 
-![saldanha GitHub stats](https://github-readme-stats.vercel.app/api?username=Saldanhaa7&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&theme=tokyonight&hide_border=false&&layout=compact)
+<div align="center"></div>
+<br />
 
-## Tecnologias que eu estudo
-
-<div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="SQL_SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</div><br/>
-
-
-## Contato
-
-<div style="display: inline_block">
-
-  <a href="mailto:bruno14042003@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/5511981471987" target="_blank"><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</div>
-
-</div>
-
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
