@@ -1,4 +1,4 @@
-### <div align="center">I'm Bruno Saldanha, a trainee data engineer 👨‍💻 working since 2023 🚀</div>  
+### <div align="center">I'm Bruno Saldanha, a Junior Data Engineer 👨‍💻 working since 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on [Incentive.me](https://incentive.me/)  
