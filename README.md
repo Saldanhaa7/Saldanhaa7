@@ -1,7 +1,7 @@
 ### <div align="center">I'm Bruno Saldanha, a trainee data engineer 👨‍💻 working since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Veiga Bets](https://www.linkedin.com/company/veiga-bets/)  
+- 🔭 I’m currently working on [Incentive.me](https://incentive.me/)  
   
 
 - 🌱 I’m currently learning AWS services  
