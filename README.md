@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Incentive.me](https://incentive.me/)  
   
 
-- 🌱 I’m currently learning AWS services  
+- 🌱 I’m currently learning dbt, ClickHouse and Airflow services  
   
 
 - ⚡ Fun fact: I love talking about any topic  
