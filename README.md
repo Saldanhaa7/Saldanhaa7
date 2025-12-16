@@ -1,7 +1,7 @@
-### <div align="center">I'm Bruno Saldanha, a Junior Data Engineer 👨‍💻 working since 2023 🚀</div>  
+### <div align="center">I'm Bruno Saldanha, a Data Engineer 👨‍💻 working since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Unimed Poços de Caldas](https://incentive.me/](https://www.unimed.coop.br/site/web/pocosdecaldas)  
+- 🔭 I’m currently working on [Unimed Poços de Caldas](https://www.unimed.coop.br/site/web/pocosdecaldas)  
   
 
 - 🌱 I’m currently learning dbt, Snowflake and Airflow services  
