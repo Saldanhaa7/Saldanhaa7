@@ -1,10 +1,10 @@
 ### <div align="center">I'm Bruno Saldanha, a Junior Data Engineer 👨‍💻 working since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Incentive.me](https://incentive.me/)  
+- 🔭 I’m currently working on [Unimed Poços de Caldas](https://incentive.me/](https://www.unimed.coop.br/site/web/pocosdecaldas)  
   
 
-- 🌱 I’m currently learning dbt, ClickHouse and Airflow services  
+- 🌱 I’m currently learning dbt, Snowflake and Airflow services  
   
 
 - ⚡ Fun fact: I love talking about any topic  
