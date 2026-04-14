@@ -1,76 +1,99 @@
-### <div align="center">I'm Bruno Saldanha, a Data Engineer 👨‍💻 working since 2023 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Unimed Poços de Caldas](https://www.unimed.coop.br/site/web/pocosdecaldas)  
-  
-
-- 🌱 I’m currently learning dbt, Snowflake and Airflow services  
-  
-
-- ⚡ Fun fact: I love talking about any topic  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/Saldanhaa7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=650&lines=Hey%2C+I'm+Bruno+Saldanha+%F0%9F%91%8B;Data+Engineer+%F0%9F%9A%80;Building+Scalable+Data+Pipelines+%F0%9F%94%A5;Turning+Raw+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
-<a href="https://linkedin.com/in/bsoliveirasoftware" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/Saldanhaa7" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Saldanhaa7&style=flat-square&color=7AA2F7&label=Profile+Views)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saldanhaa7&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
+</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&hide_border=true&layout=compact&theme=transparent" align="center" /></div>  
+---
 
-<br/>  
+## 👨‍💻 About Me
+
+```yaml
+name:       Bruno Saldanha
+role:       Data Engineer
+company:    Unimed Poços de Caldas
+location:   Atibaia, São Paulo — Brasil 🇧🇷
+learning:   dbt · Snowflake · Apache Airflow
+fun_fact:   I love talking about any topic 💬
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Data & Analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Dev & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Saldanhaa7&&style=flat-square" align="center" />
-</div>  
-  
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Saldanhaa7&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" />
+</div>
 
-<br/>  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Saldanhaa7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7" />
+</div>
 
-<div align="center"></div>
-<br />
+---
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saldanhaa7/Saldanhaa7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saldanhaa7/Saldanhaa7/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Saldanhaa7/Saldanhaa7/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/bsoliveirasoftware" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Saldanhaa7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/Saldanhaa7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=80&section=footer" />
+</div>
