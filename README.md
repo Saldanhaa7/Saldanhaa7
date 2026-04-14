@@ -54,12 +54,28 @@ fun_fact:   I love talking about any topic 💬
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Saldanhaa7&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Saldanhaa7&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&rank_icon=github&cache_seconds=1800" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saldanhaa7&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&cache_seconds=1800" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Saldanhaa7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saldanhaa7&theme=tokyo-night&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FF9E64&area=true&hide_border=true" />
+</div>
+
+---
+
+## 📌 Repos & Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Saldanhaa7/Saldanhaa7/master/github-metrics.svg" />
 </div>
 
 ---
